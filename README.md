@@ -30,7 +30,7 @@
 1. مخزن را کلون کنید:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Diabetes-Prediction.git
+git clone https://github.com/evi-data-vision/Diabetes-Prediction.git
 cd Diabetes-Prediction
 pip install -r requirements.txt
 ```
